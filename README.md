@@ -11,14 +11,13 @@ We converted darknet model into ONNX model and optimized it using TensorRT.
 ## Results
 
 * Result 1
-![example_1](https://github.com/kukwang/Trump-card-poker-game-recognition/assets/52880303/b53eb294-4a69-4ec1-aec7-ec0d55061fee)
+![example_1](https://github.com/kukwang/Trump-card-poker-game-recognition/assets/52880303/67c5f2fe-1068-4e89-b1a6-08ac9df7252d)
 
 * Result 2
-![example_2](https://github.com/kukwang/Trump-card-poker-game-recognition/assets/52880303/176feea1-1815-41d7-876a-48ef12b723b9)
+![example_2](https://github.com/kukwang/Trump-card-poker-game-recognition/assets/52880303/e6615de0-35ce-4618-86f4-1fb05da9f69a)
 
 * Result 3
-![example_3](https://github.com/kukwang/Trump-card-poker-game-recognition/assets/52880303/adc449cc-421c-4102-bc0c-fc022c0749e0)
-
+![example_3](https://github.com/kukwang/Trump-card-poker-game-recognition/assets/52880303/a720ebf7-554e-4d9e-8dea-e557e3a4f464)
 
 ## Acknowledgements
 We referenced the source code in [TensorRT Demo](https://github.com/jkjung-avt/tensorrt_demos)
