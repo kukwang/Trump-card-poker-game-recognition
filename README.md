@@ -1,5 +1,4 @@
 # Trump-card-poker-game-recognition
-Detect 
 * Repository for archiving team project in March 2021 ~ June 2021
 * Junghwan Lee, Kwangsoo Seol
 
@@ -22,4 +21,4 @@ We converted darknet model into ONNX model and optimized it using TensorRT.
 
 
 ## Acknowledgements
-Our code is based on [TensorRT Demo](https://github.com/jkjung-avt/tensorrt_demos)
+We referenced the source code in [TensorRT Demo](https://github.com/jkjung-avt/tensorrt_demos)
