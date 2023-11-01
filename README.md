@@ -7,7 +7,7 @@ Detect Trump cards and scoring according to the poker game rule on Jetson Nano i
 We used yolov4 tiny model to detect and classify trump cards.
 We trained [darknet](https://github.com/AlexeyAB/darknet) model using [Trump card dataset](https://github.com/okmd/playing-card-dataset)
 We converted darknet model into ONNX model and optimized it using TensorRT.
-- Code for convert and optimize are not in this repo (codes are missing).
+- Code for convert and optimize are not in this repo.
 
 ## Results
 
