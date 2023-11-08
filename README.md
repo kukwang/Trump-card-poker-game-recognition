@@ -25,6 +25,9 @@ We converted darknet model into ONNX model and optimized it using TensorRT.
 
 ## References
 Dataset: [https://github.com/okmd/playing-card-dataset](https://github.com/okmd/playing-card-dataset)
+
 Training yolo: [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
+
 Apply TensorRT: [https://github.com/jkjung-avt/tensorrt_demos](https://github.com/jkjung-avt/tensorrt_demos)
+
 OpenCV document for camera: [https://docs.opencv.org/3.4/index.html](https://docs.opencv.org/3.4/index.html)
