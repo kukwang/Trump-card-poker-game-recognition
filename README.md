@@ -23,5 +23,8 @@ We converted darknet model into ONNX model and optimized it using TensorRT.
 
 ![example_3](https://github.com/kukwang/Trump-card-poker-game-recognition/assets/52880303/a720ebf7-554e-4d9e-8dea-e557e3a4f464)
 
-## Acknowledgements
-We referenced the source code in [TensorRT Demo](https://github.com/jkjung-avt/tensorrt_demos)
+## References
+Dataset: [https://github.com/okmd/playing-card-dataset](https://github.com/okmd/playing-card-dataset)
+Training yolo: [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
+Apply TensorRT: [https://github.com/jkjung-avt/tensorrt_demos](https://github.com/jkjung-avt/tensorrt_demos)
+OpenCV document for camera: [https://docs.opencv.org/3.4/index.html](https://docs.opencv.org/3.4/index.html)
